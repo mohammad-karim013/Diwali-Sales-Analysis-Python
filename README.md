@@ -94,3 +94,13 @@ Interpreted visual patterns for business recommendations.
 
 <img width="917" height="742" alt="image" src="https://github.com/user-attachments/assets/8ee268dd-2bac-4682-8293-929575e4b015" />
 
+---
+
+🗂️ Resource Materials
+diwali_sales_data.csv — Original dataset
+
+diwali_sales_analysis.ipynb — Python notebook containing full code
+
+charts/ — Generated plots and graphs
+
+---
