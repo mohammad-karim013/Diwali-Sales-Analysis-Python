@@ -9,7 +9,7 @@ This repo documents my entire journey, from data cleaning to visual storytelling
 
 **📚 Table of Contents**
 
-**Architecture
+Architecture
 
 Motivation
 
@@ -20,11 +20,12 @@ Project Phases
 Resource Materials
 
 Key Learnings & Best Practices
-**
+
 ---
 
-**🏗️ Architecture
-**
+**🏗️ Architecture**
+
+
 Analysis Workflow
 
 This diagram outlines the step-by-step data flow:
