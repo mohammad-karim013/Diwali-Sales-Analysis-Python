@@ -22,3 +22,20 @@ Resource Materials
 Key Learnings & Best Practices
 
 ---
+🏗️ Architecture
+
+Analysis Workflow
+
+This diagram outlines the step-by-step data flow:
+
+Data Collection → Raw CSV/Excel festive season sales dataset
+
+Data Cleaning & Preparation → Remove null values, fix data types, remove duplicates
+
+Exploratory Data Analysis (EDA) → Statistical summaries, grouping, and aggregations
+
+Visualization → Insights via Matplotlib & Seaborn charts
+
+Business Insights → Actionable strategies for future festive seasons
+
+---
