@@ -6,17 +6,14 @@ This project is my deep dive into analyzing Diwali festive season sales to uncov
 This repo documents my entire journey, from data cleaning to visual storytelling.
 
 ---
+
 📚 Table of Contents
+
 Architecture
-
 Motivation
-
 Business Logic Highlights
-
 Project Phases
-
 Resource Materials
-
 Key Learnings & Best Practices
 
 --
