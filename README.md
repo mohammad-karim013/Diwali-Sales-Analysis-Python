@@ -64,3 +64,33 @@ Marketing Insights: Determine where and who to target for future campaigns.
 
 <img width="1340" height="830" alt="image" src="https://github.com/user-attachments/assets/5254ad6d-f638-4bc3-9916-5d7bc055fba4" />
 
+---
+
+🚀 Project Phases
+Phase 1: Data Collection
+
+Acquired Diwali sales dataset (CSV format).
+
+Verified schema, ensured consistent headers and formats.
+
+Phase 2: Data Cleaning
+
+Removed null values, duplicates, and irrelevant fields.
+
+Standardized data types for analysis.
+
+Phase 3: Exploratory Data Analysis
+
+Grouped and aggregated data to find patterns.
+
+Used descriptive statistics to summarize trends.
+
+Phase 4: Visualization & Insights
+
+Built bar charts, histograms, and heatmaps.
+
+Interpreted visual patterns for business recommendations.
+
+
+<img width="917" height="742" alt="image" src="https://github.com/user-attachments/assets/8ee268dd-2bac-4682-8293-929575e4b015" />
+
