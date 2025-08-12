@@ -10,10 +10,15 @@ This repo documents my entire journey, from data cleaning to visual storytelling
 📚 Table of Contents
 
 Architecture
+
 Motivation
+
 Business Logic Highlights
+
 Project Phases
+
 Resource Materials
+
 Key Learnings & Best Practices
 
 ---
