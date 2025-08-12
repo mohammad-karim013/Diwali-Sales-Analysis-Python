@@ -48,4 +48,19 @@ Data storytelling: Numbers are just numbers unless they’re visualized and expl
 Hands-on Python: Perfect opportunity to use Pandas, NumPy, Matplotlib, and Seaborn in a real-world scenario.
 
 <img width="1175" height="811" alt="image" src="https://github.com/user-attachments/assets/31b7f9c9-cca0-4e8c-b22c-d2dffd697306" />
+
+
 ---
+
+💡 Business Logic Highlights
+Customer Segmentation: Spend patterns by gender, age, and marital status.
+
+Top Categories: Identify product categories that dominate Diwali sales.
+
+Revenue Trends: Track purchase amounts across regions and demographics.
+
+Marketing Insights: Determine where and who to target for future campaigns.
+
+
+<img width="1340" height="830" alt="image" src="https://github.com/user-attachments/assets/5254ad6d-f638-4bc3-9916-5d7bc055fba4" />
+
