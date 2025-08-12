@@ -39,3 +39,13 @@ Visualization → Insights via Matplotlib & Seaborn charts
 Business Insights → Actionable strategies for future festive seasons
 
 ---
+
+🎯 Motivation
+Festive impact on business: Diwali brings a massive surge in consumer spending — analyzing it helps optimize future campaigns.
+
+Data storytelling: Numbers are just numbers unless they’re visualized and explained.
+
+Hands-on Python: Perfect opportunity to use Pandas, NumPy, Matplotlib, and Seaborn in a real-world scenario.
+
+<img width="1175" height="811" alt="image" src="https://github.com/user-attachments/assets/31b7f9c9-cca0-4e8c-b22c-d2dffd697306" />
+---
